@@ -1,3 +1,7 @@
 <resources>
+
     <string name="app_name">Google Maps</string>
+
+    <string name="MAP_API_KEY">AIzaSyCeRXz1OGPi8L_7h3bmxZxIjY_6KGIGyds</string>
+
 </resources>
